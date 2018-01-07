@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Views specific methods for apps I use.}
   spec.description   = %q{Provide HTML generators such as copyright.}
-  spec.homepage      = "No url provided"
+  spec.homepage      = "https://github.com/fcalderonnearsoft/fcalderon_devcamp_view_tool"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
